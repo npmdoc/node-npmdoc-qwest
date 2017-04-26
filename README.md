@@ -1,6 +1,6 @@
 # npmdoc-qwest
 
-#### api documentation for  [qwest (v4.4.5)](http://dreamysource.io/project/qwest)  [![npm package](https://img.shields.io/npm/v/npmdoc-qwest.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-qwest) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-qwest.svg)](https://travis-ci.org/npmdoc/node-npmdoc-qwest)
+#### basic api documentation for  [qwest (v4.4.5)](http://dreamysource.io/project/qwest)  [![npm package](https://img.shields.io/npm/v/npmdoc-qwest.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-qwest) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-qwest.svg)](https://travis-ci.org/npmdoc/node-npmdoc-qwest)
 
 #### Ajax library with XHR2, promises and request limit
 
@@ -76,7 +76,8 @@
         "url": "git+https://github.com/pyrsmk/qwest.git"
     },
     "scripts": {},
-    "version": "4.4.5"
+    "version": "4.4.5",
+    "bin": {}
 }
 ```
 
